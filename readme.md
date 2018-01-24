@@ -1,5 +1,7 @@
 # Python to Datascience
 
+[![Join the chat at https://gitter.im/Python-to-Datascience/Lobby](https://badges.gitter.im/Python-to-Datascience/Lobby.svg)](https://gitter.im/Python-to-Datascience/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Collection of the best (possibly libre + gratis) resource to learn from Python Programming
 to Datascience.
 
