@@ -1,14 +1,23 @@
 # Python to Datascience
 
-[![Join the chat at https://gitter.im/Python-to-Datascience/Lobby](https://badges.gitter.im/Python-to-Datascience/Lobby.svg)](https://gitter.im/Python-to-Datascience/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Collection of the best (possibly libre + gratis) resource to learn from Python Programming
 to Datascience.
 
 # System Requirements
 
+These are the setting we found its good to learn Python and Datascience
+
+* We recommend a computer with ubuntu in it.
+* A minimum of core i3 Proessor
+* Ram should be atleast 8GB
+
 # Where to get help
 
+[![Join the chat at https://gitter.im/Python-to-Datascience/Lobby](https://badges.gitter.im/Python-to-Datascience/Lobby.svg)](https://gitter.im/Python-to-Datascience/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# Probability and Statistics
+
+* [Learn Probability and Statics from Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 # Python
 
@@ -44,3 +53,5 @@ to Datascience.
 # Pandas
 
 # Scikit-Learn
+
+# Neuralnets
