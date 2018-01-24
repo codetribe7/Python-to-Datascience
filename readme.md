@@ -33,6 +33,7 @@ These are the setting we found its good to learn Python and Datascience
 * [A guide to Numpy](https://archive.org/details/NumPyBook)
 
 # Scipy
+* [Scipy tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
 
 # Pandas
 * [Pandas Tutorial](https://www.youtube.com/watch?v=Ak_x96eouNU)
