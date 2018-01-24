@@ -26,24 +26,8 @@ These are the setting we found its good to learn Python and Datascience
 * Testing your installation
 * [Installing Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
-## Starting with Python
-* Python REPL
-* Writing programs on a text editor
-* Jupyter notebook
-
-## Variables and Strings
-
-## Getting help in Python
-
-## Lists Tuples and Dictionaries
-
-## Loops
-
-## Functions
-
-## Objects and Classes
-
-## Dealing with files
+## Learn Python
+* [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 
 # NumPy
 * [A guide to Numpy](https://archive.org/details/NumPyBook)
@@ -51,6 +35,7 @@ These are the setting we found its good to learn Python and Datascience
 # Scipy
 
 # Pandas
+* [Pandas Tutorial](https://www.youtube.com/watch?v=Ak_x96eouNU)
 
 # Scikit-Learn
 
