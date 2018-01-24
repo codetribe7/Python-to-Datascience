@@ -10,19 +10,19 @@ to Datascience.
 
 # Python
 
-  ## Installation
-    * Installing Python using Anaconda
-    * Testing your installation
-    * installing Atom
+## Installation
+* Installing Python using Anaconda
+* Testing your installation
+* installing Atom
 
-  ## Starting with Python
-    * Python REPL
-    * Writing programs on a text editor
-    * Jupyter notebook
+## Starting with Python
+* Python REPL
+* Writing programs on a text editor
+* Jupyter notebook
 
-  ## Variables and Strings
+## Variables and Strings
 
-  ## Getting help in Python
+## Getting help in Python
 
 # NumPy
 
