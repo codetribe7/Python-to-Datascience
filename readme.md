@@ -26,6 +26,16 @@ to Datascience.
 
 ## Getting help in Python
 
+## Lists Tuples and Dictionaries
+
+## Loops
+
+## Functions
+
+## Objects and Classes
+
+## Dealing with files
+
 # NumPy
 
 # Scipy
