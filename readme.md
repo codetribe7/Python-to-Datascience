@@ -13,9 +13,9 @@ to Datascience.
 # Python
 
 ## Installation
-* Installing Python using Anaconda
+* [Installing Python using Anaconda](https://docs.anaconda.com/anaconda/install/)
 * Testing your installation
-* installing Atom
+* [Installing Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
 ## Starting with Python
 * Python REPL
@@ -37,6 +37,7 @@ to Datascience.
 ## Dealing with files
 
 # NumPy
+* [A guide to Numpy](https://archive.org/details/NumPyBook)
 
 # Scipy
 
