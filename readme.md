@@ -37,6 +37,7 @@ These are the setting we found its good to learn Python and Datascience
 
 # Pandas
 * [Pandas Tutorial](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+* [Jupyter notebooks for above video tutorial](https://github.com/mindaslab/my_pandas_notes)
 
 # Scikit-Learn
 
